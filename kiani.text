@@ -1,0 +1,18 @@
+error ha moshkel nadareh tak tak ejra mishan
+
+ch
+
+cls
+
+go run pg-connect.go
+
+go run insert.go
+
+go run update-delete.go
+
+go run transaction.go
+
+go run delete.go
+
+go run transaction.go
+
